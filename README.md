@@ -20,4 +20,8 @@ Copied from `facts_kids/website/` in the Flutter project. After editing here or 
 
 **Settings → Pages → Deploy from branch → `main` / (root).**
 
+**Google Play (homepage badge):**  
+`https://play.google.com/store/apps/details?id=com.luckytools.facts_kids`  
+Works once the app is published on Play; until then the store page may not load.
+
 Support: autoaccentsni@gmail.com
