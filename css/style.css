@@ -279,7 +279,7 @@ body.landing::before { z-index: -2; }
   display: flex;
   gap: 20px;
   overflow-x: auto;
-  scroll-snap-type: x mandatory;
+  scroll-snap-type: x proximity;
   scroll-behavior: smooth;
   padding: 8px 4px 16px;
   flex: 1;
@@ -295,7 +295,7 @@ body.landing::before { z-index: -2; }
 .lc-carousel-track .lc-shot {
   flex: 0 0 auto;
   width: 220px;
-  scroll-snap-align: center;
+  scroll-snap-align: start;
 }
 
 .lc-carousel-btn {
